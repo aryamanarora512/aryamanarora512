@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aryamanarora512/aryamanarora512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Aryaman Arora
 
-Here are some ideas to get you started:
+*Mathematics & Computer Science · Duke University*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### Preface
+
+Hi! I'm a Math and CS student at Duke. My work sits where probability, statistics and machine learning meet real-world systems: modeling risk, finding signal in noisy data, and building tools that reason about it. <!-- edit this sentence to describe your own theme -->
+
+The chapters below collect my projects. Each title links to its repository.
+
+---
+
+### Contents
+
+| Chapter | Title | Summary |
+|:---:|:---|:---|
+| **I** | [Markov Credit Model](https://github.com/aryamanarora512/markov-credit-model) | *One-line description of the project.* |
+| **II** | [Sports Betting Fraud Detection](https://github.com/emilygzh/Sports-Betting-Fraud-Detection) | *One-line description (collaboration with @emilygzh).* |
+| **III** | [ResearchLLM](https://github.com/aryamanarora512/researchllm) | *One-line description of the project.* |
+| **IV** | [LEA](https://github.com/aryamanarora512/LEA) | *One-line description of the project.* |
+| **V** | [Personal Website](https://aryamanarora512.github.io) | *My portfolio site.* |
+
+---
+
+### Appendix
+
+- **Email:** your.name@duke.edu
+- **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
+
+<div align="center">
+
+*— fin —*
+
+</div>
