@@ -24,7 +24,7 @@ The chapters below collect my projects. Each title links to its repository.
 | **II** | [Sports Betting Fraud Detection](https://github.com/emilygzh/Sports-Betting-Fraud-Detection) | *One-line description (collaboration with @emilygzh).* |
 | **III** | [ResearchLLM](https://github.com/aryamanarora512/researchllm) | *One-line description of the project.* |
 | **IV** | [LEA](https://github.com/aryamanarora512/LEA) | *One-line description of the project.* |
-| **V** | [Personal Website](https://aryamanarora512.github.io) | *My portfolio site.* |
+
 
 ---
 
