@@ -10,7 +10,7 @@
 
 ### Preface
 
-Hi! I'm a Math and CS student at Duke. My work sits where probability, statistics and machine learning meet real-world systems: modeling risk, finding signal in noisy data, and building tools that reason about it. <!-- edit this sentence to describe your own theme -->
+Hi! I'm a Math and CS student at Duke. My work involves data analysis in life sciences, modeling, and quantitative analysis.
 
 The chapters below collect my projects. Each title links to its repository.
 
@@ -30,8 +30,8 @@ The chapters below collect my projects. Each title links to its repository.
 
 ### Appendix
 
-- **Email:** your.name@duke.edu
-- **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
+- **Email:** a.arora@duke.edu
+- **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com/in/aryamanarora05)
 
 <div align="center">
 
