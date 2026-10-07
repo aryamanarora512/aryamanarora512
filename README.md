@@ -31,7 +31,7 @@ The chapters below collect my projects. Each title links to its repository.
 ### Appendix
 
 - **Email:** a.arora@duke.edu
-- **LinkedIn:** [linkedin.com/in/your-handle](https://linkedin.com/in/aryamanarora05)
+- **LinkedIn:** [linkedin.com/in/aryamanarora05](https://linkedin.com/in/aryamanarora05)
 
 <div align="center">
 
